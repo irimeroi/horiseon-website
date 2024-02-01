@@ -3,6 +3,13 @@
 ## Description
 This project was built to show the potential customers the benefits of using Horiseon, a company created to provide solution services to social media related issues.
 
+## Screenshots
+![](assets/images/Screenshot1.png)
+![](assets/images/Screenshot2.png)
+
+## Link
+https://irimeroi.github.io/horiseon-website/#social-media-marketing
+
 ## Installation
 N/A
 
